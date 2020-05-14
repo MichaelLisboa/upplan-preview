@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed6f2471.chunk.css",
+    "main.js": "/static/js/main.147c7cc7.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.ce822609.js",
+    "static/js/2.df9a7b42.chunk.js": "/static/js/2.df9a7b42.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.055d261aee194ad42c1945bb07bc9dda.js": "/precache-manifest.055d261aee194ad42c1945bb07bc9dda.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.df9a7b42.chunk.js.LICENSE.txt": "/static/js/2.df9a7b42.chunk.js.LICENSE.txt",
+    "static/media/global.css": "/static/media/open-sans-v17-latin-regular.de0869e3.woff",
+    "static/media/up-logo.svg": "/static/media/up-logo.75bff75e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce822609.js",
+    "static/js/2.df9a7b42.chunk.js",
+    "static/css/main.ed6f2471.chunk.css",
+    "static/js/main.147c7cc7.chunk.js"
+  ]
+}
