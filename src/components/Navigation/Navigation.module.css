@@ -1,0 +1,21 @@
+.nav {
+  position: absolute;
+  z-index: 99;
+  left: 0;
+  right: 0;
+  background-color: #fff;
+}
+
+.Logo img,
+.Logo svg {
+  height: 40px !important;
+  width: auto;
+}
+
+@media only screen and (min-width: 767px) {
+  .Logo img,
+  .Logo svg {
+    height: 40px !important;
+    width: auto;
+  }
+}

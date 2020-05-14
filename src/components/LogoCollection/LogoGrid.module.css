@@ -1,0 +1,14 @@
+.LogoImage {
+  padding: 0;
+}
+
+.LogoImage div:first-of-type {
+  max-width: 50px;
+  margin: auto;
+}
+
+@media (min-width: 640px) {
+  .LogoImage div:first-of-type {
+    max-width: 125px;
+  }
+}
