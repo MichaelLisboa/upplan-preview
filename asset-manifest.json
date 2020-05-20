@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.ed6f2471.chunk.css",
-    "main.js": "/static/js/main.147c7cc7.chunk.js",
+    "main.js": "/static/js/main.f8bc472a.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.ce822609.js",
-    "static/js/2.df9a7b42.chunk.js": "/static/js/2.df9a7b42.chunk.js",
+    "static/js/2.42786835.chunk.js": "/static/js/2.42786835.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.407f61311d8b84c458fba5525375c3e3.js": "/precache-manifest.407f61311d8b84c458fba5525375c3e3.js",
+    "precache-manifest.a55debc816c341134793b4c3a05c95e1.js": "/precache-manifest.a55debc816c341134793b4c3a05c95e1.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.df9a7b42.chunk.js.LICENSE.txt": "/static/js/2.df9a7b42.chunk.js.LICENSE.txt",
+    "static/js/2.42786835.chunk.js.LICENSE.txt": "/static/js/2.42786835.chunk.js.LICENSE.txt",
     "static/media/global.css": "/static/media/open-sans-v17-latin-regular.de0869e3.woff",
     "static/media/up-logo.svg": "/static/media/up-logo.75bff75e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ce822609.js",
-    "static/js/2.df9a7b42.chunk.js",
+    "static/js/2.42786835.chunk.js",
     "static/css/main.ed6f2471.chunk.css",
-    "static/js/main.147c7cc7.chunk.js"
+    "static/js/main.f8bc472a.chunk.js"
   ]
 }
